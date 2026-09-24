@@ -1,0 +1,15 @@
+{
+  "HT_unbiased_enum": true,
+  "HT_var_formula_enum": true,
+  "HT_var_estimator_unbiased_enum": true,
+  "AV_opt_equals_(sum sqrt m)^2/n - sum m": true,
+  "AV_eq_minus_AV_opt_times_n": "2*(-sqrt(m1)*sqrt(m2) - sqrt(m1)*sqrt(m3) + m1 - sqrt(m2)*sqrt(m3) + m2 + m3)",
+  "Lagrange_identity_N3": true,
+  "rate_m": "p",
+  "dollar_m": "A**2*p",
+  "diff_rate_residual": "mu**2 - 2*mu*p + p",
+  "diff_rate_residual_at_mu_eq_p": "-p*(p - 1)",
+  "diff_dollar_residual_at_mu_eq_Ap": "-A**2*p*(p - 1)",
+  "capped_optimum_never_worse_500_random": true,
+  "constant_m_optimum_equals_equal_pi": true
+}
